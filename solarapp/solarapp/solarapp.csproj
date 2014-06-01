@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E8B87762-3098-46A7-972F-541DE5E457E1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>solarapp</RootNamespace>
+    <AssemblyName>solarapp</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Advantages.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Advantages.Designer.cs">
+      <DependentUpon>Advantages.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Benefits.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Benefits.Designer.cs">
+      <DependentUpon>Benefits.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Browser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Browser.Designer.cs">
+      <DependentUpon>Browser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConnectionDiagram.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConnectionDiagram.Designer.cs">
+      <DependentUpon>ConnectionDiagram.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConnectionDiagram1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConnectionDiagram1.Designer.cs">
+      <DependentUpon>ConnectionDiagram1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConnectionDiagram2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConnectionDiagram2.Designer.cs">
+      <DependentUpon>ConnectionDiagram2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="createsolar1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="createsolar1.Designer.cs">
+      <DependentUpon>createsolar1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inforamtion1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inforamtion1.Designer.cs">
+      <DependentUpon>Inforamtion1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Information.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Information.Designer.cs">
+      <DependentUpon>Information.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Information2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Information2.Designer.cs">
+      <DependentUpon>Information2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="output.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="output.Designer.cs">
+      <DependentUpon>output.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="solarinfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="solarinfo.Designer.cs">
+      <DependentUpon>solarinfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SunPawar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SunPawar.Designer.cs">
+      <DependentUpon>SunPawar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SupplierDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SupplierDetails.Designer.cs">
+      <DependentUpon>SupplierDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Working.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Working.Designer.cs">
+      <DependentUpon>Working.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Advantages.resx">
+      <DependentUpon>Advantages.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Benefits.resx">
+      <DependentUpon>Benefits.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Browser.resx">
+      <DependentUpon>Browser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConnectionDiagram.resx">
+      <DependentUpon>ConnectionDiagram.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConnectionDiagram1.resx">
+      <DependentUpon>ConnectionDiagram1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConnectionDiagram2.resx">
+      <DependentUpon>ConnectionDiagram2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="createsolar1.resx">
+      <DependentUpon>createsolar1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inforamtion1.resx">
+      <DependentUpon>Inforamtion1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Information.resx">
+      <DependentUpon>Information.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Information2.resx">
+      <DependentUpon>Information2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="output.resx">
+      <DependentUpon>output.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="solarinfo.resx">
+      <DependentUpon>solarinfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SunPawar.resx">
+      <DependentUpon>SunPawar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SupplierDetails.resx">
+      <DependentUpon>SupplierDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Working.resx">
+      <DependentUpon>Working.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1 Watts_schem.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11Watts_schem.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2 Watts_schem.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3 watts_schem.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SUN.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

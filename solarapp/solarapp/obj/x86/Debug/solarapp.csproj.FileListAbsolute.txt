@@ -1,0 +1,48 @@
+Y:\Experimental Codes\Image Processing\Workshop\solarapp\solarapp\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\Experimental Codes\Image Processing\Workshop\solarapp\solarapp\obj\x86\Debug\solarapp.createsolar.resources
+Y:\Experimental Codes\Image Processing\Workshop\solarapp\solarapp\obj\x86\Debug\solarapp.Form1.resources
+Y:\Experimental Codes\Image Processing\Workshop\solarapp\solarapp\obj\x86\Debug\solarapp.output.resources
+Y:\Experimental Codes\Image Processing\Workshop\solarapp\solarapp\obj\x86\Debug\solarapp.Properties.Resources.resources
+Y:\Experimental Codes\Image Processing\Workshop\solarapp\solarapp\obj\x86\Debug\solarapp.solarinfo.resources
+Y:\Experimental Codes\Image Processing\Workshop\solarapp\solarapp\obj\x86\Debug\GenerateResource.read.1.tlog
+Y:\Experimental Codes\Image Processing\Workshop\solarapp\solarapp\obj\x86\Debug\GenerateResource.write.1.tlog
+Y:\Experimental Codes\Image Processing\Workshop\solarapp\solarapp\bin\Debug\solarapp.exe
+Y:\Experimental Codes\Image Processing\Workshop\solarapp\solarapp\bin\Debug\solarapp.pdb
+Y:\Experimental Codes\Image Processing\Workshop\solarapp\solarapp\obj\x86\Debug\solarapp.exe
+Y:\Experimental Codes\Image Processing\Workshop\solarapp\solarapp\obj\x86\Debug\solarapp.pdb
+Y:\Experimental Codes\Image Processing\Workshop\solarapp\solarapp\obj\x86\Debug\solarapp.Browser.resources
+Y:\Experimental Codes\Image Processing\Workshop\solarapp\solarapp\obj\x86\Debug\solarapp.ConnectionDiagram.resources
+Y:\Experimental Codes\Image Processing\Workshop\solarapp\solarapp\obj\x86\Debug\solarapp.ConnectionDiagram1.resources
+Y:\Experimental Codes\Image Processing\Workshop\solarapp\solarapp\obj\x86\Debug\solarapp.ConnectionDiagram2.resources
+Y:\Experimental Codes\Image Processing\Workshop\solarapp\solarapp\obj\x86\Debug\solarapp.SupplierDetails.resources
+Y:\Experimental Codes\Image Processing\Workshop\solarapp\solarapp\obj\x86\Debug\solarapp.SunPawar.resources
+Y:\Experimental Codes\Image Processing\Workshop\solarapp\solarapp\obj\x86\Debug\solarapp.Advantages.resources
+Y:\Experimental Codes\Image Processing\Workshop\solarapp\solarapp\obj\x86\Debug\solarapp.Benefits.resources
+Y:\Experimental Codes\Image Processing\Workshop\solarapp\solarapp\obj\x86\Debug\solarapp.Inforamtion1.resources
+Y:\Experimental Codes\Image Processing\Workshop\solarapp\solarapp\obj\x86\Debug\solarapp.Information.resources
+Y:\Experimental Codes\Image Processing\Workshop\solarapp\solarapp\obj\x86\Debug\solarapp.Information2.resources
+Y:\Experimental Codes\Image Processing\Workshop\solarapp\solarapp\obj\x86\Debug\solarapp.Working.resources
+C:\Users\Krishna\Desktop\solarapp\solarapp\obj\x86\Debug\solarapp.exe
+C:\Users\Krishna\Desktop\solarapp\solarapp\obj\x86\Debug\solarapp.pdb
+C:\Users\Krishna\Desktop\solarapp\solarapp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Krishna\Desktop\solarapp\solarapp\obj\x86\Debug\solarapp.Advantages.resources
+C:\Users\Krishna\Desktop\solarapp\solarapp\obj\x86\Debug\solarapp.Benefits.resources
+C:\Users\Krishna\Desktop\solarapp\solarapp\obj\x86\Debug\solarapp.Browser.resources
+C:\Users\Krishna\Desktop\solarapp\solarapp\obj\x86\Debug\solarapp.ConnectionDiagram.resources
+C:\Users\Krishna\Desktop\solarapp\solarapp\obj\x86\Debug\solarapp.ConnectionDiagram1.resources
+C:\Users\Krishna\Desktop\solarapp\solarapp\obj\x86\Debug\solarapp.ConnectionDiagram2.resources
+C:\Users\Krishna\Desktop\solarapp\solarapp\obj\x86\Debug\solarapp.createsolar1.resources
+C:\Users\Krishna\Desktop\solarapp\solarapp\obj\x86\Debug\solarapp.Form1.resources
+C:\Users\Krishna\Desktop\solarapp\solarapp\obj\x86\Debug\solarapp.Inforamtion1.resources
+C:\Users\Krishna\Desktop\solarapp\solarapp\obj\x86\Debug\solarapp.Information.resources
+C:\Users\Krishna\Desktop\solarapp\solarapp\obj\x86\Debug\solarapp.Information2.resources
+C:\Users\Krishna\Desktop\solarapp\solarapp\obj\x86\Debug\solarapp.output.resources
+C:\Users\Krishna\Desktop\solarapp\solarapp\obj\x86\Debug\solarapp.Properties.Resources.resources
+C:\Users\Krishna\Desktop\solarapp\solarapp\obj\x86\Debug\solarapp.solarinfo.resources
+C:\Users\Krishna\Desktop\solarapp\solarapp\obj\x86\Debug\solarapp.SunPawar.resources
+C:\Users\Krishna\Desktop\solarapp\solarapp\obj\x86\Debug\solarapp.SupplierDetails.resources
+C:\Users\Krishna\Desktop\solarapp\solarapp\obj\x86\Debug\solarapp.Working.resources
+C:\Users\Krishna\Desktop\solarapp\solarapp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Krishna\Desktop\solarapp\solarapp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Krishna\Desktop\solarapp\solarapp\bin\Debug\solarapp.exe
+C:\Users\Krishna\Desktop\solarapp\solarapp\bin\Debug\solarapp.pdb
